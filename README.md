@@ -1,1 +1,1 @@
-# leanClude
+# learnClaude
